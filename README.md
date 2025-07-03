@@ -29,7 +29,7 @@ A custom IPython magic command that embeds [marimo](https://marimo.io) notebooks
 %load_ext marimo_magic
 ```
 
-#### Option 2: Install via pip (when package is published)
+#### Option 2: Install via pip
 ```bash
 pip install marimo-magic
 ```

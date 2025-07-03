@@ -33,9 +33,9 @@ sys.path.append('src')
 %load_ext marimo_magic
 ```
 
-## Package Installation (Future)
+## Package Installation
 
-When published to PyPI:
+Install from PyPI:
 
 ```bash
 pip install marimo-magic
